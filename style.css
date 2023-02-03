@@ -1,0 +1,32 @@
+.h1cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cont{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background: linear-gradient(45deg, red, blue);
+    font-family: 'Ubuntu Mono', monospace;
+}
+#cp1{
+    margin-bottom: 15px;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 18.5px;
+    font-weight: 900;
+}
+p{
+    font-weight: 900;
+}
